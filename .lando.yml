@@ -1,0 +1,7 @@
+name: d86
+recipe: pantheon
+config:
+  xdebug: true
+  framework: drupal8
+  site: d86
+  id: 0632469c-5762-41af-aafc-ea312f77ac96
